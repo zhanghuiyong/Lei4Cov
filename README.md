@@ -8,7 +8,7 @@ OUTPUT: optimized vector embedding N by M data matrix
 
 
 # data_process
-  - 数据源预处理
+  - data processing
 # lei4cov
   - 文献向量训练
 
